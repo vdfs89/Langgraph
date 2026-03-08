@@ -1,0 +1,11 @@
+langgraph
+langchain-community
+langchain
+langchain-core
+python-dotenv
+ipykernel
+langchain-openai
+langgraph-cli
+langgraph-cli[inmem]
+tavily-python
+
